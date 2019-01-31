@@ -1,5 +1,5 @@
 #include"arvore.h"
-//criando arvore vazia
+//criando arvore vazia leone duarte
 void criarArvore(Titem **Raiz){
 		*Raiz = NULL;
 }
