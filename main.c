@@ -5,6 +5,7 @@ main(){
 	int valor;
 	int menores,maiores,diferenca;
 	Titem **Raiz;	
+	
 	criarArvore(&Raiz);
 	
 	
